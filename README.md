@@ -21,6 +21,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 
+![Screenshot 2025-05-28 111841](https://github.com/user-attachments/assets/e2a50bf2-118b-436a-9cf7-c13d383e22d4)
+
 ### Stage 1: Ticket Intake
 
 #### Scenario 1: Business Critical Outage
@@ -35,6 +37,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Details: "Customers are calling saying they are getting a 404 error when logging into online banking. Mobile app is also not working."
 - Click "Create Ticket"
 - Note the ticket number generated (e.g., #123456)
+
+![Screenshot 2025-05-28 112345](https://github.com/user-attachments/assets/7ddf4732-555d-40c3-b8aa-06bacd3063de)
 
 #### Scenario 2: Adobe Reader Request
 **End User Creates Ticket:**
@@ -56,6 +60,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Issue Summary: "Locked out of accounting software"
   - Details: "I forgot my password for QuickBooks and now I'm locked out. Need access ASAP for month-end reporting."
 - Click "Create Ticket"
+
+![Screenshot 2025-05-28 112150](https://github.com/user-attachments/assets/5cf85621-429c-4895-8322-006ba16556d5)
 
 ### Stage 2: Assignment and Communication
 
